@@ -1,0 +1,2263 @@
+{
+  "lemon": {
+    "fdcId": 167746,
+    "nutrients": {
+      "omega3EpaG": 0,
+      "omega3DhaG": 0,
+      "sugarsG": 2.5,
+      "vitaminAUg": 1,
+      "proteinG": 1.1,
+      "vitaminCMg": 53,
+      "folateUg": 11,
+      "b12Ug": 0,
+      "fiberG": 2.8,
+      "ironMg": 0.6,
+      "magnesiumMg": 8,
+      "sodiumMg": 2,
+      "saturatedFatG": 0.039,
+      "fatG": 0.3,
+      "carbohydrateG": 9.32,
+      "energyKcal": 29,
+      "calciumMg": 26,
+      "potassiumMg": 138,
+      "zincMg": 0.06,
+      "vitaminB6Mg": 0.08,
+      "pufa183G": 0.026,
+      "vitaminDUg": 0
+    },
+    "portions": [
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "fruit (2-1/8 dia)",
+        "gramWeight": 58
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "fruit (2-3/8 dia)",
+        "gramWeight": 84
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "wedge or slice (1/8 of one 2-1/8 dia lemon)",
+        "gramWeight": 7
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "NLEA serving",
+        "gramWeight": 58
+      }
+    ]
+  },
+  "strawberry": {
+    "fdcId": 167762,
+    "nutrients": {
+      "vitaminB6Mg": 0.047,
+      "zincMg": 0.14,
+      "fatG": 0.3,
+      "fiberG": 2,
+      "magnesiumMg": 13,
+      "proteinG": 0.67,
+      "vitaminCMg": 58.8,
+      "folateUg": 24,
+      "sodiumMg": 1,
+      "potassiumMg": 153,
+      "sugarsG": 4.89,
+      "calciumMg": 16,
+      "carbohydrateG": 7.68,
+      "energyKcal": 32,
+      "pufa183G": 0.065,
+      "saturatedFatG": 0.015,
+      "omega3DhaG": 0,
+      "omega3EpaG": 0,
+      "ironMg": 0.41,
+      "vitaminAUg": 1,
+      "b12Ug": 0,
+      "vitaminDUg": 0
+    },
+    "portions": [
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "extra large (1-5/8 dia)",
+        "gramWeight": 27
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "large (1-3/8 dia)",
+        "gramWeight": 18
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "medium (1-1/4 dia)",
+        "gramWeight": 12
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "small (1 dia)",
+        "gramWeight": 7
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "NLEA serving",
+        "gramWeight": 147
+      }
+    ]
+  },
+  "cucumber": {
+    "fdcId": 168409,
+    "nutrients": {
+      "carbohydrateG": 3.63,
+      "energyKcal": 15,
+      "sugarsG": 1.67,
+      "pufa183G": 0.005,
+      "vitaminAUg": 5,
+      "saturatedFatG": 0.037,
+      "omega3DhaG": 0,
+      "omega3EpaG": 0,
+      "sodiumMg": 2,
+      "b12Ug": 0,
+      "calciumMg": 16,
+      "potassiumMg": 147,
+      "zincMg": 0.2,
+      "fatG": 0.11,
+      "vitaminB6Mg": 0.04,
+      "vitaminCMg": 2.8,
+      "folateUg": 7,
+      "fiberG": 0.5,
+      "ironMg": 0.28,
+      "magnesiumMg": 13,
+      "proteinG": 0.65,
+      "vitaminDUg": 0
+    },
+    "portions": [
+      {
+        "amount": 0.5,
+        "description": "",
+        "modifier": "cup slices",
+        "gramWeight": 52
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "cucumber (8-1/4)",
+        "gramWeight": 301
+      }
+    ]
+  },
+  "spinach": {
+    "fdcId": 168462,
+    "nutrients": {
+      "calciumMg": 99,
+      "potassiumMg": 558,
+      "zincMg": 0.53,
+      "vitaminB6Mg": 0.195,
+      "proteinG": 2.86,
+      "ironMg": 2.71,
+      "magnesiumMg": 79,
+      "sodiumMg": 79,
+      "vitaminCMg": 28.1,
+      "folateUg": 194,
+      "b12Ug": 0,
+      "fiberG": 2.2,
+      "pufa183G": 0.138,
+      "sugarsG": 0.42,
+      "fatG": 0.39,
+      "carbohydrateG": 3.63,
+      "energyKcal": 23,
+      "vitaminAUg": 469,
+      "saturatedFatG": 0.063,
+      "omega3DhaG": 0,
+      "omega3EpaG": 0,
+      "vitaminDUg": 0
+    },
+    "portions": [
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "cup",
+        "gramWeight": 30
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "bunch",
+        "gramWeight": 340
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "leaf",
+        "gramWeight": 10
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "package (10 oz)",
+        "gramWeight": 284
+      }
+    ]
+  },
+  "sweet-potato": {
+    "fdcId": 168483,
+    "nutrients": {
+      "carbohydrateG": 20.71,
+      "energyKcal": 90,
+      "vitaminAUg": 961,
+      "omega3DhaG": 0,
+      "omega3EpaG": 0,
+      "ironMg": 0.69,
+      "magnesiumMg": 27,
+      "sodiumMg": 36,
+      "calciumMg": 38,
+      "potassiumMg": 475,
+      "zincMg": 0.32,
+      "fatG": 0.15,
+      "pufa183G": 0.006,
+      "sugarsG": 6.48,
+      "saturatedFatG": 0.052,
+      "b12Ug": 0,
+      "vitaminDUg": 0,
+      "folateUg": 6,
+      "vitaminCMg": 19.6,
+      "fiberG": 3.3,
+      "proteinG": 2.01,
+      "vitaminB6Mg": 0.286
+    },
+    "portions": [
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "cup",
+        "gramWeight": 200
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "large",
+        "gramWeight": 180
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "small",
+        "gramWeight": 60
+      }
+    ]
+  },
+  "semolina": {
+    "fdcId": 168933,
+    "nutrients": {
+      "omega3DhaG": 0,
+      "omega3EpaG": 0,
+      "vitaminAUg": 0,
+      "proteinG": 12.68,
+      "fiberG": 3.9,
+      "ironMg": 1.23,
+      "magnesiumMg": 47,
+      "sodiumMg": 1,
+      "saturatedFatG": 0.15,
+      "vitaminCMg": 0,
+      "folateUg": 72,
+      "b12Ug": 0,
+      "fatG": 1.05,
+      "carbohydrateG": 72.83,
+      "energyKcal": 360,
+      "calciumMg": 17,
+      "potassiumMg": 186,
+      "zincMg": 1.05,
+      "pufa183G": 0.037,
+      "vitaminB6Mg": 0.103,
+      "vitaminDUg": 0
+    },
+    "portions": [
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "cup",
+        "gramWeight": 167
+      }
+    ]
+  },
+  "orange": {
+    "fdcId": 169097,
+    "nutrients": {
+      "sugarsG": 9.35,
+      "omega3EpaG": 0,
+      "omega3DhaG": 0,
+      "vitaminAUg": 11,
+      "vitaminB6Mg": 0.06,
+      "pufa183G": 0.007,
+      "calciumMg": 40,
+      "potassiumMg": 181,
+      "zincMg": 0.07,
+      "fatG": 0.12,
+      "carbohydrateG": 11.75,
+      "energyKcal": 47,
+      "saturatedFatG": 0.015,
+      "vitaminCMg": 53.2,
+      "folateUg": 30,
+      "b12Ug": 0,
+      "fiberG": 2.4,
+      "ironMg": 0.1,
+      "magnesiumMg": 10,
+      "sodiumMg": 0,
+      "proteinG": 0.94,
+      "vitaminDUg": 0
+    },
+    "portions": [
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "large (3-1/16 dia)",
+        "gramWeight": 184
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "small (2-3/8 dia)",
+        "gramWeight": 96
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "fruit (2-5/8 dia)",
+        "gramWeight": 131
+      }
+    ]
+  },
+  "garlic": {
+    "fdcId": 169230,
+    "nutrients": {
+      "omega3DhaG": 0,
+      "omega3EpaG": 0,
+      "carbohydrateG": 33.06,
+      "energyKcal": 149,
+      "vitaminAUg": 0,
+      "sugarsG": 1,
+      "saturatedFatG": 0.089,
+      "vitaminCMg": 31.2,
+      "folateUg": 3,
+      "b12Ug": 0,
+      "fiberG": 2.1,
+      "ironMg": 1.7,
+      "magnesiumMg": 25,
+      "sodiumMg": 17,
+      "proteinG": 6.36,
+      "calciumMg": 181,
+      "potassiumMg": 401,
+      "zincMg": 1.16,
+      "vitaminB6Mg": 1.235,
+      "fatG": 0.5,
+      "pufa183G": 0.02,
+      "vitaminDUg": 0
+    },
+    "portions": [
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "cup",
+        "gramWeight": 136
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "tsp",
+        "gramWeight": 2.8
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "clove",
+        "gramWeight": 3
+      },
+      {
+        "amount": 3,
+        "description": "",
+        "modifier": "cloves",
+        "gramWeight": 9
+      }
+    ]
+  },
+  "lettuce": {
+    "fdcId": 169249,
+    "nutrients": {
+      "vitaminCMg": 9.2,
+      "fiberG": 1.3,
+      "saturatedFatG": 0.02,
+      "sugarsG": 0.78,
+      "carbohydrateG": 2.87,
+      "pufa183G": 0.058,
+      "b12Ug": 0,
+      "energyKcal": 15,
+      "vitaminDUg": 0,
+      "proteinG": 1.36,
+      "ironMg": 0.86,
+      "magnesiumMg": 13,
+      "sodiumMg": 28,
+      "folateUg": 38,
+      "calciumMg": 36,
+      "potassiumMg": 194,
+      "zincMg": 0.18,
+      "vitaminB6Mg": 0.09,
+      "fatG": 0.15,
+      "omega3EpaG": 0,
+      "omega3DhaG": 0,
+      "vitaminAUg": 370
+    },
+    "portions": [
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "cup shredded",
+        "gramWeight": 36
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "head",
+        "gramWeight": 360
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "leaf inner",
+        "gramWeight": 4.8
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "leaf outer",
+        "gramWeight": 24
+      }
+    ]
+  },
+  "couscous-cooked": {
+    "fdcId": 169700,
+    "nutrients": {
+      "omega3DhaG": 0,
+      "omega3EpaG": 0,
+      "sugarsG": 0.1,
+      "vitaminAUg": 0,
+      "vitaminDUg": 0,
+      "fatG": 0.16,
+      "carbohydrateG": 23.22,
+      "energyKcal": 112,
+      "calciumMg": 8,
+      "potassiumMg": 58,
+      "zincMg": 0.26,
+      "vitaminB6Mg": 0.051,
+      "pufa183G": 0.003,
+      "vitaminCMg": 0,
+      "folateUg": 15,
+      "b12Ug": 0,
+      "fiberG": 1.4,
+      "ironMg": 0.38,
+      "magnesiumMg": 8,
+      "sodiumMg": 5,
+      "proteinG": 3.79,
+      "saturatedFatG": 0.029
+    },
+    "portions": []
+  },
+  "rice-cooked": {
+    "fdcId": 169757,
+    "nutrients": {
+      "omega3EpaG": 0,
+      "omega3DhaG": 0,
+      "sugarsG": 0.05,
+      "fatG": 0.28,
+      "carbohydrateG": 28.17,
+      "energyKcal": 130,
+      "calciumMg": 10,
+      "potassiumMg": 35,
+      "zincMg": 0.49,
+      "vitaminB6Mg": 0.093,
+      "pufa183G": 0.013,
+      "proteinG": 2.69,
+      "fiberG": 0.4,
+      "ironMg": 0.2,
+      "magnesiumMg": 12,
+      "sodiumMg": 1,
+      "vitaminCMg": 0,
+      "folateUg": 3,
+      "b12Ug": 0,
+      "saturatedFatG": 0.077,
+      "vitaminDUg": 0,
+      "vitaminAUg": 0
+    },
+    "portions": [
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "cup",
+        "gramWeight": 158
+      }
+    ]
+  },
+  "flour": {
+    "fdcId": 169761,
+    "nutrients": {
+      "omega3DhaG": 0,
+      "omega3EpaG": 0,
+      "fatG": 0.98,
+      "carbohydrateG": 76.31,
+      "energyKcal": 364,
+      "calciumMg": 15,
+      "potassiumMg": 107,
+      "zincMg": 0.7,
+      "vitaminB6Mg": 0.044,
+      "pufa183G": 0.022,
+      "fiberG": 2.7,
+      "ironMg": 1.17,
+      "magnesiumMg": 22,
+      "sodiumMg": 2,
+      "vitaminCMg": 0,
+      "folateUg": 26,
+      "b12Ug": 0,
+      "proteinG": 10.33,
+      "saturatedFatG": 0.155,
+      "sugarsG": 0.27,
+      "vitaminDUg": 0,
+      "vitaminAUg": 0
+    },
+    "portions": [
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "cup",
+        "gramWeight": 125
+      }
+    ]
+  },
+  "onion": {
+    "fdcId": 170000,
+    "nutrients": {
+      "pufa183G": 0.004,
+      "vitaminB6Mg": 0.12,
+      "sugarsG": 4.24,
+      "calciumMg": 23,
+      "potassiumMg": 146,
+      "zincMg": 0.17,
+      "fatG": 0.1,
+      "carbohydrateG": 9.34,
+      "energyKcal": 40,
+      "vitaminCMg": 7.4,
+      "folateUg": 19,
+      "saturatedFatG": 0.042,
+      "omega3DhaG": 0,
+      "omega3EpaG": 0,
+      "proteinG": 1.1,
+      "fiberG": 1.7,
+      "ironMg": 0.21,
+      "magnesiumMg": 10,
+      "sodiumMg": 4,
+      "vitaminAUg": 0,
+      "b12Ug": 0,
+      "vitaminDUg": 0
+    },
+    "portions": [
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "tbsp chopped",
+        "gramWeight": 10
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "large",
+        "gramWeight": 150
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "medium (2-1/2 dia)",
+        "gramWeight": 110
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "small",
+        "gramWeight": 70
+      },
+      {
+        "amount": 10,
+        "description": "",
+        "modifier": "rings",
+        "gramWeight": 60
+      }
+    ]
+  },
+  "potato-baked": {
+    "fdcId": 170093,
+    "nutrients": {
+      "vitaminAUg": 1,
+      "fiberG": 2.2,
+      "ironMg": 1.08,
+      "magnesiumMg": 28,
+      "sodiumMg": 10,
+      "proteinG": 2.5,
+      "vitaminCMg": 9.6,
+      "folateUg": 28,
+      "calciumMg": 15,
+      "potassiumMg": 535,
+      "zincMg": 0.36,
+      "vitaminB6Mg": 0.311,
+      "pufa183G": 0.013,
+      "fatG": 0.13,
+      "b12Ug": 0,
+      "omega3EpaG": 0,
+      "omega3DhaG": 0,
+      "carbohydrateG": 21.15,
+      "energyKcal": 93,
+      "sugarsG": 1.18,
+      "saturatedFatG": 0.034,
+      "vitaminDUg": 0
+    },
+    "portions": [
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "NLEA serving",
+        "gramWeight": 148
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "potato large",
+        "gramWeight": 299
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "potato medium",
+        "gramWeight": 173
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "potato small",
+        "gramWeight": 138
+      }
+    ]
+  },
+  "bell-pepper": {
+    "fdcId": 170108,
+    "nutrients": {
+      "fiberG": 2.1,
+      "folateUg": 46,
+      "energyKcal": 26,
+      "pufa183G": 0.056,
+      "saturatedFatG": 0.059,
+      "vitaminCMg": 127.7,
+      "sodiumMg": 4,
+      "omega3EpaG": 0,
+      "omega3DhaG": 0,
+      "vitaminAUg": 157,
+      "sugarsG": 4.2,
+      "carbohydrateG": 6.03,
+      "ironMg": 0.43,
+      "magnesiumMg": 12,
+      "proteinG": 0.99,
+      "b12Ug": 0,
+      "calciumMg": 7,
+      "potassiumMg": 211,
+      "zincMg": 0.25,
+      "vitaminB6Mg": 0.291,
+      "fatG": 0.3,
+      "vitaminDUg": 0
+    },
+    "portions": [
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "tablespoon",
+        "gramWeight": 9.3
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "small",
+        "gramWeight": 74
+      }
+    ]
+  },
+  "walnut": {
+    "fdcId": 170187,
+    "nutrients": {
+      "calciumMg": 98,
+      "pufa183G": 9.08,
+      "carbohydrateG": 13.71,
+      "energyKcal": 654,
+      "saturatedFatG": 6.126,
+      "vitaminDUg": 0,
+      "sugarsG": 2.61,
+      "b12Ug": 0,
+      "vitaminAUg": 1,
+      "proteinG": 15.23,
+      "omega3DhaG": 0,
+      "omega3EpaG": 0,
+      "fiberG": 6.7,
+      "ironMg": 2.91,
+      "magnesiumMg": 158,
+      "sodiumMg": 2,
+      "vitaminCMg": 1.3,
+      "folateUg": 98,
+      "vitaminB6Mg": 0.537,
+      "potassiumMg": 441,
+      "zincMg": 3.09,
+      "fatG": 65.21
+    },
+    "portions": [
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "cup shelled (50 halves)",
+        "gramWeight": 100
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "cup pieces or chips",
+        "gramWeight": 120
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "oz (14 halves)",
+        "gramWeight": 28.35
+      }
+    ]
+  },
+  "broccoli": {
+    "fdcId": 170379,
+    "nutrients": {
+      "pufa183G": 0.063,
+      "saturatedFatG": 0.114,
+      "sugarsG": 1.7,
+      "carbohydrateG": 6.64,
+      "energyKcal": 34,
+      "fatG": 0.37,
+      "calciumMg": 47,
+      "potassiumMg": 316,
+      "zincMg": 0.41,
+      "vitaminB6Mg": 0.175,
+      "proteinG": 2.82,
+      "fiberG": 2.6,
+      "ironMg": 0.73,
+      "magnesiumMg": 21,
+      "sodiumMg": 33,
+      "vitaminCMg": 89.2,
+      "omega3EpaG": 0,
+      "omega3DhaG": 0,
+      "folateUg": 63,
+      "b12Ug": 0,
+      "vitaminAUg": 31,
+      "vitaminDUg": 0
+    },
+    "portions": [
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "cup chopped",
+        "gramWeight": 91
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "bunch",
+        "gramWeight": 608
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "spear (about 5 long)",
+        "gramWeight": 31
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "stalk",
+        "gramWeight": 151
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "NLEA serving",
+        "gramWeight": 148
+      }
+    ]
+  },
+  "carrot": {
+    "fdcId": 170393,
+    "nutrients": {
+      "saturatedFatG": 0.032,
+      "ironMg": 0.3,
+      "magnesiumMg": 12,
+      "sodiumMg": 69,
+      "vitaminCMg": 5.9,
+      "folateUg": 19,
+      "proteinG": 0.93,
+      "fatG": 0.24,
+      "calciumMg": 33,
+      "potassiumMg": 320,
+      "zincMg": 0.24,
+      "vitaminB6Mg": 0.138,
+      "b12Ug": 0,
+      "sugarsG": 4.74,
+      "carbohydrateG": 9.58,
+      "energyKcal": 41,
+      "pufa183G": 0.002,
+      "omega3DhaG": 0,
+      "omega3EpaG": 0,
+      "vitaminAUg": 835,
+      "fiberG": 2.8,
+      "vitaminDUg": 0
+    },
+    "portions": [
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "cup chopped",
+        "gramWeight": 128
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "cup grated",
+        "gramWeight": 110
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "cup strips or slices",
+        "gramWeight": 122
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "large (7-1/4 to 8-/1/2 long)",
+        "gramWeight": 72
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "medium",
+        "gramWeight": 61
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "small (5-1/2 long)",
+        "gramWeight": 50
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "slice",
+        "gramWeight": 3
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "strip large (3 long)",
+        "gramWeight": 7
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "strip medium",
+        "gramWeight": 4
+      }
+    ]
+  },
+  "parsley": {
+    "fdcId": 170416,
+    "nutrients": {
+      "omega3DhaG": 0,
+      "omega3EpaG": 0,
+      "carbohydrateG": 6.33,
+      "energyKcal": 36,
+      "vitaminAUg": 421,
+      "calciumMg": 138,
+      "potassiumMg": 554,
+      "zincMg": 1.07,
+      "fatG": 0.79,
+      "pufa183G": 0.008,
+      "vitaminB6Mg": 0.09,
+      "proteinG": 2.97,
+      "fiberG": 3.3,
+      "ironMg": 6.2,
+      "magnesiumMg": 50,
+      "sodiumMg": 56,
+      "saturatedFatG": 0.132,
+      "vitaminCMg": 133,
+      "folateUg": 152,
+      "b12Ug": 0,
+      "sugarsG": 0.85,
+      "vitaminDUg": 0
+    },
+    "portions": [
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "cup chopped",
+        "gramWeight": 60
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "tbsp",
+        "gramWeight": 3.8
+      },
+      {
+        "amount": 10,
+        "description": "",
+        "modifier": "sprigs",
+        "gramWeight": 10
+      }
+    ]
+  },
+  "tomato": {
+    "fdcId": 170457,
+    "nutrients": {
+      "omega3DhaG": 0,
+      "omega3EpaG": 0,
+      "vitaminCMg": 13.7,
+      "b12Ug": 0,
+      "sugarsG": 2.63,
+      "carbohydrateG": 3.89,
+      "energyKcal": 18,
+      "pufa183G": 0.003,
+      "vitaminAUg": 42,
+      "saturatedFatG": 0.028,
+      "calciumMg": 10,
+      "potassiumMg": 237,
+      "zincMg": 0.17,
+      "vitaminB6Mg": 0.08,
+      "fatG": 0.2,
+      "fiberG": 1.2,
+      "ironMg": 0.27,
+      "magnesiumMg": 11,
+      "sodiumMg": 5,
+      "proteinG": 0.88,
+      "folateUg": 15,
+      "vitaminDUg": 0
+    },
+    "portions": [
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "cup cherry tomatoes",
+        "gramWeight": 149
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "Italian tomato",
+        "gramWeight": 62
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "cherry",
+        "gramWeight": 17
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "large whole (3 dia)",
+        "gramWeight": 182
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "medium whole (2-3/5 dia)",
+        "gramWeight": 123
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "plum tomato",
+        "gramWeight": 62
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "small whole (2-2/5 dia)",
+        "gramWeight": 91
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "wedge (1/4 of medium tomato)",
+        "gramWeight": 31
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "NLEA serving",
+        "gramWeight": 148
+      }
+    ]
+  },
+  "almonds": {
+    "fdcId": 170567,
+    "nutrients": {
+      "omega3DhaG": 0,
+      "omega3EpaG": 0,
+      "vitaminDUg": 0,
+      "omega3AlaG": 0.003,
+      "proteinG": 21.15,
+      "fiberG": 12.5,
+      "ironMg": 3.71,
+      "magnesiumMg": 270,
+      "saturatedFatG": 3.802,
+      "folateUg": 44,
+      "pufa183G": 0.003,
+      "vitaminB6Mg": 0.137,
+      "fatG": 49.93,
+      "carbohydrateG": 21.55,
+      "energyKcal": 579,
+      "calciumMg": 269,
+      "potassiumMg": 733,
+      "zincMg": 3.12,
+      "vitaminCMg": 0,
+      "vitaminAUg": 0,
+      "sodiumMg": 1,
+      "sugarsG": 4.35,
+      "b12Ug": 0
+    },
+    "portions": [
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "oz (23 whole kernels)",
+        "gramWeight": 28.35
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "almond",
+        "gramWeight": 1.2
+      }
+    ]
+  },
+  "chicken-raw": {
+    "fdcId": 171077,
+    "nutrients": {
+      "calciumMg": 5,
+      "ironMg": 0.37,
+      "pufa183G": 0.013,
+      "vitaminB6Mg": 0.811,
+      "potassiumMg": 334,
+      "zincMg": 0.68,
+      "fatG": 2.62,
+      "energyKcal": 120,
+      "omega3AlaG": 0.013,
+      "omega3DhaG": 0.004,
+      "omega3EpaG": 0.003,
+      "saturatedFatG": 0.563,
+      "vitaminCMg": 0,
+      "magnesiumMg": 28,
+      "sodiumMg": 45,
+      "proteinG": 22.5,
+      "b12Ug": 0.21,
+      "sugarsG": 0,
+      "folateUg": 9,
+      "carbohydrateG": 0,
+      "fiberG": 0,
+      "vitaminDUg": 0,
+      "vitaminAUg": 9
+    },
+    "portions": [
+      {
+        "amount": 4,
+        "description": "",
+        "modifier": "oz",
+        "gramWeight": 113
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "piece",
+        "gramWeight": 272
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "package",
+        "gramWeight": 926
+      }
+    ]
+  },
+  "milk": {
+    "fdcId": 171265,
+    "nutrients": {
+      "vitaminAUg": 46,
+      "pufa183G": 0.075,
+      "fatG": 3.25,
+      "sugarsG": 5.05,
+      "carbohydrateG": 4.8,
+      "energyKcal": 61,
+      "saturatedFatG": 1.865,
+      "vitaminDUg": 1.3,
+      "folateUg": 5,
+      "fiberG": 0,
+      "omega3EpaG": 0,
+      "omega3DhaG": 0,
+      "ironMg": 0.03,
+      "magnesiumMg": 10,
+      "sodiumMg": 43,
+      "proteinG": 3.15,
+      "vitaminCMg": 0,
+      "b12Ug": 0.45,
+      "vitaminB6Mg": 0.036,
+      "calciumMg": 113,
+      "potassiumMg": 132,
+      "zincMg": 0.37
+    },
+    "portions": [
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "cup",
+        "gramWeight": 244
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "fl oz",
+        "gramWeight": 30.5
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "tbsp",
+        "gramWeight": 15
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "quart",
+        "gramWeight": 976
+      }
+    ]
+  },
+  "yogurt": {
+    "fdcId": 171284,
+    "nutrients": {
+      "sugarsG": 4.66,
+      "omega3EpaG": 0,
+      "omega3DhaG": 0,
+      "energyKcal": 61,
+      "vitaminAUg": 27,
+      "vitaminDUg": 0.1,
+      "saturatedFatG": 2.096,
+      "proteinG": 3.47,
+      "fiberG": 0,
+      "ironMg": 0.05,
+      "magnesiumMg": 12,
+      "sodiumMg": 46,
+      "vitaminCMg": 0.5,
+      "folateUg": 7,
+      "b12Ug": 0.37,
+      "fatG": 3.25,
+      "carbohydrateG": 4.66,
+      "pufa183G": 0.027,
+      "calciumMg": 121,
+      "potassiumMg": 155,
+      "zincMg": 0.59,
+      "vitaminB6Mg": 0.032
+    },
+    "portions": [
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "container (6 oz)",
+        "gramWeight": 170
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "container (8 oz)",
+        "gramWeight": 227
+      },
+      {
+        "amount": 0.5,
+        "description": "",
+        "modifier": "container (4 oz)",
+        "gramWeight": 113
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "cup (8 fl oz)",
+        "gramWeight": 245
+      }
+    ]
+  },
+  "egg-raw": {
+    "fdcId": 171287,
+    "nutrients": {
+      "energyKcal": 143,
+      "b12Ug": 0.89,
+      "saturatedFatG": 3.126,
+      "omega3DhaG": 0.058,
+      "omega3EpaG": 0,
+      "omega3AlaG": 0.036,
+      "proteinG": 12.56,
+      "ironMg": 1.75,
+      "magnesiumMg": 12,
+      "sodiumMg": 142,
+      "vitaminAUg": 160,
+      "sugarsG": 0.37,
+      "calciumMg": 56,
+      "potassiumMg": 138,
+      "zincMg": 1.29,
+      "fatG": 9.51,
+      "pufa183G": 0.048,
+      "vitaminB6Mg": 0.17,
+      "carbohydrateG": 0.72,
+      "vitaminDUg": 2,
+      "folateUg": 47,
+      "vitaminCMg": 0,
+      "fiberG": 0
+    },
+    "portions": [
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "large",
+        "gramWeight": 50
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "extra large",
+        "gramWeight": 56
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "jumbo",
+        "gramWeight": 63
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "cup (4.86 large eggs)",
+        "gramWeight": 243
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "medium",
+        "gramWeight": 44
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "small",
+        "gramWeight": 38
+      }
+    ]
+  },
+  "olive-oil": {
+    "fdcId": 171413,
+    "nutrients": {
+      "fatG": 100,
+      "carbohydrateG": 0,
+      "energyKcal": 884,
+      "calciumMg": 1,
+      "potassiumMg": 1,
+      "zincMg": 0,
+      "pufa183G": 0.761,
+      "ironMg": 0.56,
+      "magnesiumMg": 0,
+      "sodiumMg": 2,
+      "proteinG": 0,
+      "vitaminAUg": 0,
+      "saturatedFatG": 13.808,
+      "omega3DhaG": 0,
+      "omega3EpaG": 0,
+      "fiberG": 0,
+      "vitaminCMg": 0,
+      "folateUg": 0,
+      "b12Ug": 0,
+      "vitaminB6Mg": 0,
+      "sugarsG": 0,
+      "vitaminDUg": 0
+    },
+    "portions": [
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "tablespoon",
+        "gramWeight": 13.5
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "cup",
+        "gramWeight": 216
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "tsp",
+        "gramWeight": 4.5
+      }
+    ]
+  },
+  "apple": {
+    "fdcId": 171688,
+    "nutrients": {
+      "folateUg": 3,
+      "carbohydrateG": 13.81,
+      "energyKcal": 52,
+      "pufa183G": 0.009,
+      "omega3EpaG": 0,
+      "saturatedFatG": 0.028,
+      "omega3DhaG": 0,
+      "fatG": 0.17,
+      "vitaminB6Mg": 0.041,
+      "sugarsG": 10.39,
+      "calciumMg": 6,
+      "potassiumMg": 107,
+      "zincMg": 0.04,
+      "vitaminAUg": 3,
+      "fiberG": 2.4,
+      "ironMg": 0.12,
+      "magnesiumMg": 5,
+      "sodiumMg": 1,
+      "proteinG": 0.26,
+      "b12Ug": 0,
+      "vitaminCMg": 4.6,
+      "vitaminDUg": 0
+    },
+    "portions": [
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "cup slices",
+        "gramWeight": 109
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "large (3-1/4 dia)",
+        "gramWeight": 223
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "medium (3 dia)",
+        "gramWeight": 182
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "small (2-3/4 dia)",
+        "gramWeight": 149
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "extra small (2-1/2 dia)",
+        "gramWeight": 101
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "NLEA serving",
+        "gramWeight": 242
+      }
+    ]
+  },
+  "chicken-roasted": {
+    "fdcId": 171477,
+    "nutrients": {
+      "vitaminDUg": 0.1,
+      "vitaminAUg": 6,
+      "fatG": 3.57,
+      "carbohydrateG": 0,
+      "energyKcal": 165,
+      "calciumMg": 15,
+      "potassiumMg": 256,
+      "zincMg": 1,
+      "vitaminB6Mg": 0.6,
+      "pufa183G": 0.03,
+      "proteinG": 31.02,
+      "fiberG": 0,
+      "ironMg": 1.04,
+      "magnesiumMg": 29,
+      "sodiumMg": 74,
+      "saturatedFatG": 1.01,
+      "vitaminCMg": 0,
+      "folateUg": 4,
+      "b12Ug": 0.34,
+      "omega3DhaG": 0.02,
+      "omega3EpaG": 0.01,
+      "sugarsG": 0
+    },
+    "portions": [
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "unit (yield from 1 lb ready-to-cook chicken)",
+        "gramWeight": 52
+      }
+    ]
+  },
+  "blueberries": {
+    "fdcId": 171711,
+    "nutrients": {
+      "potassiumMg": 77,
+      "sodiumMg": 1,
+      "vitaminCMg": 9.7,
+      "carbohydrateG": 14.49,
+      "energyKcal": 57,
+      "b12Ug": 0,
+      "pufa183G": 0.058,
+      "zincMg": 0.16,
+      "vitaminB6Mg": 0.052,
+      "sugarsG": 9.96,
+      "calciumMg": 6,
+      "fatG": 0.33,
+      "saturatedFatG": 0.028,
+      "omega3DhaG": 0,
+      "omega3EpaG": 0,
+      "folateUg": 6,
+      "fiberG": 2.4,
+      "ironMg": 0.28,
+      "magnesiumMg": 6,
+      "vitaminAUg": 3,
+      "proteinG": 0.74,
+      "vitaminDUg": 0
+    },
+    "portions": [
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "cup",
+        "gramWeight": 148
+      },
+      {
+        "amount": 50,
+        "description": "",
+        "modifier": "berries",
+        "gramWeight": 68
+      }
+    ]
+  },
+  "dates": {
+    "fdcId": 171726,
+    "nutrients": {
+      "carbohydrateG": 75.03,
+      "energyKcal": 282,
+      "saturatedFatG": 0.032,
+      "b12Ug": 0,
+      "pufa183G": 0.003,
+      "fatG": 0.39,
+      "sugarsG": 63.35,
+      "calciumMg": 39,
+      "potassiumMg": 656,
+      "zincMg": 0.29,
+      "vitaminB6Mg": 0.165,
+      "proteinG": 2.45,
+      "fiberG": 8,
+      "ironMg": 1.02,
+      "magnesiumMg": 43,
+      "sodiumMg": 2,
+      "vitaminAUg": 0,
+      "vitaminCMg": 0.4,
+      "folateUg": 19,
+      "omega3DhaG": 0,
+      "omega3EpaG": 0,
+      "vitaminDUg": 0
+    },
+    "portions": []
+  },
+  "lentils-cooked": {
+    "fdcId": 172421,
+    "nutrients": {
+      "omega3EpaG": 0,
+      "omega3DhaG": 0,
+      "sugarsG": 1.8,
+      "vitaminAUg": 0,
+      "carbohydrateG": 20.13,
+      "energyKcal": 116,
+      "vitaminDUg": 0,
+      "proteinG": 9.02,
+      "fiberG": 7.9,
+      "ironMg": 3.33,
+      "magnesiumMg": 36,
+      "sodiumMg": 2,
+      "vitaminCMg": 1.5,
+      "folateUg": 181,
+      "b12Ug": 0,
+      "saturatedFatG": 0.053,
+      "fatG": 0.38,
+      "calciumMg": 19,
+      "potassiumMg": 369,
+      "zincMg": 1.27,
+      "vitaminB6Mg": 0.178,
+      "pufa183G": 0.037
+    },
+    "portions": [
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "cup",
+        "gramWeight": 198
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "tbsp",
+        "gramWeight": 12.3
+      }
+    ]
+  },
+  "peanut-butter": {
+    "fdcId": 172470,
+    "nutrients": {
+      "vitaminAUg": 0,
+      "sodiumMg": 17,
+      "b12Ug": 0,
+      "omega3AlaG": 0.027,
+      "omega3EpaG": 0,
+      "saturatedFatG": 10.325,
+      "vitaminCMg": 0,
+      "folateUg": 87,
+      "proteinG": 22.21,
+      "fiberG": 5,
+      "ironMg": 1.74,
+      "magnesiumMg": 168,
+      "vitaminB6Mg": 0.441,
+      "sugarsG": 10.49,
+      "calciumMg": 49,
+      "potassiumMg": 558,
+      "zincMg": 2.51,
+      "fatG": 51.36,
+      "carbohydrateG": 22.31,
+      "energyKcal": 598,
+      "pufa183G": 0.028,
+      "omega3DhaG": 0,
+      "vitaminDUg": 0
+    },
+    "portions": [
+      {
+        "amount": 2,
+        "description": "",
+        "modifier": "tbsp",
+        "gramWeight": 32
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "cup",
+        "gramWeight": 258
+      }
+    ]
+  },
+  "bread-whole-wheat": {
+    "fdcId": 172688,
+    "nutrients": {
+      "fatG": 3.5,
+      "carbohydrateG": 42.71,
+      "energyKcal": 252,
+      "sugarsG": 4.34,
+      "calciumMg": 161,
+      "potassiumMg": 254,
+      "zincMg": 1.77,
+      "vitaminB6Mg": 0.215,
+      "pufa183G": 0.139,
+      "proteinG": 12.45,
+      "fiberG": 6,
+      "ironMg": 2.47,
+      "magnesiumMg": 75,
+      "sodiumMg": 455,
+      "saturatedFatG": 0.722,
+      "omega3DhaG": 0,
+      "omega3EpaG": 0,
+      "omega3AlaG": 0.137,
+      "folateUg": 42,
+      "vitaminDUg": 0,
+      "b12Ug": 0,
+      "vitaminAUg": 0,
+      "vitaminCMg": 0
+    },
+    "portions": [
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "slice",
+        "gramWeight": 32
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "oz",
+        "gramWeight": 28.35
+      }
+    ]
+  },
+  "egg-boiled": {
+    "fdcId": 173424,
+    "nutrients": {
+      "sugarsG": 1.12,
+      "vitaminB6Mg": 0.121,
+      "fiberG": 0,
+      "energyKcal": 155,
+      "vitaminAUg": 149,
+      "vitaminDUg": 2.2,
+      "proteinG": 12.58,
+      "ironMg": 1.19,
+      "magnesiumMg": 10,
+      "sodiumMg": 124,
+      "vitaminCMg": 0,
+      "folateUg": 44,
+      "b12Ug": 1.11,
+      "saturatedFatG": 3.267,
+      "omega3DhaG": 0.038,
+      "omega3EpaG": 0.005,
+      "pufa183G": 0.035,
+      "calciumMg": 50,
+      "potassiumMg": 126,
+      "zincMg": 1.05,
+      "fatG": 10.61,
+      "carbohydrateG": 1.12
+    },
+    "portions": [
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "tbsp",
+        "gramWeight": 8.5
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "large",
+        "gramWeight": 50
+      }
+    ]
+  },
+  "tuna": {
+    "fdcId": 173709,
+    "nutrients": {
+      "sugarsG": 0,
+      "vitaminAUg": 17,
+      "pufa183G": 0.002,
+      "vitaminB6Mg": 0.319,
+      "calciumMg": 17,
+      "potassiumMg": 179,
+      "zincMg": 0.69,
+      "fatG": 0.96,
+      "energyKcal": 86,
+      "omega3DhaG": 0.196,
+      "omega3EpaG": 0.028,
+      "omega3AlaG": 0.002,
+      "vitaminDUg": 1.2,
+      "b12Ug": 2.55,
+      "saturatedFatG": 0.211,
+      "proteinG": 19.44,
+      "ironMg": 1.63,
+      "magnesiumMg": 23,
+      "sodiumMg": 247,
+      "vitaminCMg": 0,
+      "folateUg": 4,
+      "fiberG": 0,
+      "carbohydrateG": 0
+    },
+    "portions": [
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "oz",
+        "gramWeight": 28.35
+      },
+      {
+        "amount": 3,
+        "description": "",
+        "modifier": "oz",
+        "gramWeight": 85
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "can",
+        "gramWeight": 165
+      }
+    ]
+  },
+  "fava-cooked": {
+    "fdcId": 173753,
+    "nutrients": {
+      "omega3DhaG": 0,
+      "omega3EpaG": 0,
+      "sugarsG": 1.82,
+      "carbohydrateG": 19.65,
+      "vitaminAUg": 1,
+      "energyKcal": 110,
+      "vitaminDUg": 0,
+      "vitaminB6Mg": 0.072,
+      "fatG": 0.4,
+      "calciumMg": 36,
+      "potassiumMg": 268,
+      "zincMg": 1.01,
+      "pufa183G": 0.012,
+      "saturatedFatG": 0.066,
+      "vitaminCMg": 0.3,
+      "folateUg": 104,
+      "b12Ug": 0,
+      "proteinG": 7.6,
+      "fiberG": 5.4,
+      "ironMg": 1.5,
+      "magnesiumMg": 43,
+      "sodiumMg": 5
+    },
+    "portions": [
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "cup",
+        "gramWeight": 170
+      }
+    ]
+  },
+  "chickpeas-cooked": {
+    "fdcId": 173757,
+    "nutrients": {
+      "fiberG": 7.6,
+      "omega3DhaG": 0,
+      "omega3EpaG": 0,
+      "sugarsG": 4.8,
+      "vitaminAUg": 1,
+      "carbohydrateG": 27.42,
+      "energyKcal": 164,
+      "vitaminDUg": 0,
+      "pufa183G": 0.043,
+      "fatG": 2.59,
+      "calciumMg": 49,
+      "potassiumMg": 291,
+      "zincMg": 1.53,
+      "vitaminB6Mg": 0.139,
+      "ironMg": 2.89,
+      "magnesiumMg": 48,
+      "sodiumMg": 7,
+      "proteinG": 8.86,
+      "vitaminCMg": 1.3,
+      "folateUg": 172,
+      "b12Ug": 0,
+      "saturatedFatG": 0.269
+    },
+    "portions": [
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "cup",
+        "gramWeight": 164
+      }
+    ]
+  },
+  "oats": {
+    "fdcId": 173904,
+    "nutrients": {
+      "omega3EpaG": 0,
+      "omega3DhaG": 0,
+      "pufa183G": 0.1,
+      "saturatedFatG": 1.11,
+      "vitaminCMg": 0,
+      "fiberG": 10.1,
+      "ironMg": 4.25,
+      "magnesiumMg": 138,
+      "vitaminB6Mg": 0.1,
+      "sugarsG": 0.99,
+      "potassiumMg": 362,
+      "zincMg": 3.64,
+      "fatG": 6.52,
+      "carbohydrateG": 67.7,
+      "energyKcal": 379,
+      "calciumMg": 52,
+      "sodiumMg": 6,
+      "vitaminAUg": 0,
+      "folateUg": 32,
+      "proteinG": 13.15,
+      "vitaminDUg": 0,
+      "b12Ug": 0
+    },
+    "portions": [
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "cup",
+        "gramWeight": 81
+      },
+      {
+        "amount": 0.33,
+        "description": "",
+        "modifier": "cup",
+        "gramWeight": 27
+      }
+    ]
+  },
+  "banana": {
+    "fdcId": 173944,
+    "nutrients": {
+      "saturatedFatG": 0.112,
+      "omega3DhaG": 0,
+      "omega3EpaG": 0,
+      "vitaminAUg": 3,
+      "pufa183G": 0.027,
+      "carbohydrateG": 22.84,
+      "energyKcal": 89,
+      "b12Ug": 0,
+      "vitaminDUg": 0,
+      "vitaminCMg": 8.7,
+      "folateUg": 20,
+      "fiberG": 2.6,
+      "ironMg": 0.26,
+      "magnesiumMg": 27,
+      "sodiumMg": 1,
+      "proteinG": 1.09,
+      "sugarsG": 12.23,
+      "calciumMg": 5,
+      "potassiumMg": 358,
+      "zincMg": 0.15,
+      "fatG": 0.33,
+      "vitaminB6Mg": 0.367
+    },
+    "portions": [
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "extra small (less than 6 long)",
+        "gramWeight": 81
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "small (6 to 6-7/8 long)",
+        "gramWeight": 101
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "medium (7 to 7-7/8 long)",
+        "gramWeight": 118
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "large (8 to 8-7/8 long)",
+        "gramWeight": 136
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "extra large (9 or longer)",
+        "gramWeight": 152
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "NLEA serving",
+        "gramWeight": 126
+      }
+    ]
+  },
+  "hummus": {
+    "fdcId": 174289,
+    "nutrients": {
+      "vitaminDUg": 0,
+      "b12Ug": 0,
+      "vitaminCMg": 0,
+      "folateUg": 48,
+      "saturatedFatG": 2.562,
+      "omega3DhaG": 0,
+      "omega3EpaG": 0,
+      "omega3AlaG": 0.711,
+      "proteinG": 7.78,
+      "fiberG": 5.5,
+      "ironMg": 2.54,
+      "magnesiumMg": 75,
+      "sodiumMg": 426,
+      "vitaminAUg": 1,
+      "pufa183G": 0.725,
+      "vitaminB6Mg": 0.146,
+      "fatG": 17.82,
+      "carbohydrateG": 15,
+      "energyKcal": 237,
+      "sugarsG": 0.62,
+      "calciumMg": 47,
+      "potassiumMg": 312,
+      "zincMg": 1.44
+    },
+    "portions": [
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "tbsp",
+        "gramWeight": 15
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "cup",
+        "gramWeight": 246
+      }
+    ]
+  },
+  "sardines": {
+    "fdcId": 175139,
+    "nutrients": {
+      "sugarsG": 0,
+      "vitaminAUg": 32,
+      "folateUg": 10,
+      "vitaminDUg": 4.8,
+      "sodiumMg": 307,
+      "calciumMg": 382,
+      "potassiumMg": 397,
+      "zincMg": 1.31,
+      "fatG": 11.45,
+      "carbohydrateG": 0,
+      "energyKcal": 208,
+      "pufa183G": 0.498,
+      "vitaminB6Mg": 0.167,
+      "fiberG": 0,
+      "ironMg": 2.92,
+      "magnesiumMg": 39,
+      "proteinG": 24.62,
+      "vitaminCMg": 0,
+      "saturatedFatG": 1.528,
+      "b12Ug": 8.94,
+      "omega3DhaG": 0.509,
+      "omega3EpaG": 0.473
+    },
+    "portions": [
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "oz",
+        "gramWeight": 28.35
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "cubic inch",
+        "gramWeight": 16
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "can (3.75 oz)",
+        "gramWeight": 92
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "small (2-2/3 x 1/2 x 1/4)",
+        "gramWeight": 12
+      },
+      {
+        "amount": 2,
+        "description": "",
+        "modifier": "sardines",
+        "gramWeight": 24
+      }
+    ]
+  },
+  "salmon-cooked": {
+    "fdcId": 175168,
+    "nutrients": {
+      "calciumMg": 15,
+      "sugarsG": 0,
+      "vitaminAUg": 69,
+      "vitaminDUg": 13.1,
+      "saturatedFatG": 2.397,
+      "pufa183G": 0.113,
+      "vitaminB6Mg": 0.647,
+      "potassiumMg": 384,
+      "zincMg": 0.43,
+      "fatG": 12.35,
+      "carbohydrateG": 0,
+      "proteinG": 22.1,
+      "omega3DhaG": 1.457,
+      "omega3EpaG": 0.69,
+      "vitaminCMg": 3.7,
+      "folateUg": 34,
+      "b12Ug": 2.8,
+      "fiberG": 0,
+      "ironMg": 0.34,
+      "magnesiumMg": 30,
+      "sodiumMg": 61,
+      "energyKcal": 206
+    },
+    "portions": [
+      {
+        "amount": 3,
+        "description": "",
+        "modifier": "oz",
+        "gramWeight": 85
+      },
+      {
+        "amount": 0.5,
+        "description": "",
+        "modifier": "fillet",
+        "gramWeight": 178
+      }
+    ]
+  },
+  "kidney-beans": {
+    "fdcId": 175194,
+    "nutrients": {
+      "omega3DhaG": 0,
+      "omega3EpaG": 0,
+      "sugarsG": 0.32,
+      "vitaminAUg": 0,
+      "carbohydrateG": 22.8,
+      "energyKcal": 127,
+      "vitaminDUg": 0,
+      "fatG": 0.5,
+      "calciumMg": 28,
+      "potassiumMg": 403,
+      "zincMg": 1.07,
+      "vitaminB6Mg": 0.12,
+      "pufa183G": 0.168,
+      "proteinG": 8.67,
+      "fiberG": 7.4,
+      "ironMg": 2.94,
+      "magnesiumMg": 45,
+      "sodiumMg": 2,
+      "saturatedFatG": 0.072,
+      "vitaminCMg": 1.2,
+      "folateUg": 130,
+      "b12Ug": 0
+    },
+    "portions": [
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "cup",
+        "gramWeight": 177
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "tbsp",
+        "gramWeight": 11
+      }
+    ]
+  },
+  "white-beans": {
+    "fdcId": 175203,
+    "nutrients": {
+      "omega3DhaG": 0,
+      "omega3EpaG": 0,
+      "vitaminAUg": 0,
+      "sugarsG": 0.34,
+      "carbohydrateG": 25.09,
+      "energyKcal": 139,
+      "vitaminDUg": 0,
+      "fiberG": 6.3,
+      "ironMg": 3.7,
+      "magnesiumMg": 63,
+      "sodiumMg": 6,
+      "saturatedFatG": 0.091,
+      "vitaminCMg": 0,
+      "folateUg": 81,
+      "b12Ug": 0,
+      "proteinG": 9.73,
+      "fatG": 0.35,
+      "calciumMg": 90,
+      "potassiumMg": 561,
+      "zincMg": 1.38,
+      "vitaminB6Mg": 0.093,
+      "pufa183G": 0.069
+    },
+    "portions": [
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "cup",
+        "gramWeight": 179
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "tbsp",
+        "gramWeight": 11.2
+      }
+    ]
+  },
+  "chia": {
+    "fdcId": 170554,
+    "nutrients": {
+      "proteinG": 16.54,
+      "fiberG": 34.4,
+      "ironMg": 7.72,
+      "magnesiumMg": 335,
+      "sodiumMg": 16,
+      "vitaminCMg": 1.6,
+      "folateUg": 49,
+      "omega3AlaG": 17.83,
+      "saturatedFatG": 3.33,
+      "fatG": 30.74,
+      "carbohydrateG": 42.12,
+      "energyKcal": 486,
+      "pufa183G": 17.83,
+      "potassiumMg": 407,
+      "zincMg": 4.58,
+      "calciumMg": 631,
+      "b12Ug": 0
+    },
+    "portions": [
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "oz",
+        "gramWeight": 28.35
+      }
+    ]
+  },
+  "flaxseed": {
+    "fdcId": 169414,
+    "nutrients": {
+      "vitaminB6Mg": 0.473,
+      "calciumMg": 255,
+      "potassiumMg": 813,
+      "zincMg": 4.34,
+      "fatG": 42.16,
+      "pufa183G": 22.813,
+      "vitaminAUg": 0,
+      "fiberG": 27.3,
+      "ironMg": 5.73,
+      "magnesiumMg": 392,
+      "sodiumMg": 30,
+      "vitaminCMg": 0.6,
+      "folateUg": 87,
+      "b12Ug": 0,
+      "proteinG": 18.29,
+      "omega3DhaG": 0,
+      "omega3EpaG": 0,
+      "vitaminDUg": 0,
+      "sugarsG": 1.55,
+      "carbohydrateG": 28.88,
+      "energyKcal": 534,
+      "saturatedFatG": 3.663
+    },
+    "portions": []
+  },
+  "canola-oil": {
+    "fdcId": 172336,
+    "nutrients": {
+      "fatG": 100,
+      "b12Ug": 0,
+      "saturatedFatG": 7.365,
+      "omega3DhaG": 0,
+      "omega3EpaG": 0,
+      "proteinG": 0,
+      "vitaminAUg": 0,
+      "omega3AlaG": 9.137,
+      "pufa183G": 9.137,
+      "carbohydrateG": 0,
+      "vitaminB6Mg": 0,
+      "calciumMg": 0,
+      "potassiumMg": 0,
+      "zincMg": 0,
+      "energyKcal": 884,
+      "fiberG": 0,
+      "ironMg": 0,
+      "magnesiumMg": 0,
+      "sodiumMg": 0,
+      "vitaminCMg": 0,
+      "sugarsG": 0,
+      "folateUg": 0,
+      "vitaminDUg": 0
+    },
+    "portions": [
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "tbsp",
+        "gramWeight": 14
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "cup",
+        "gramWeight": 218
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "tsp",
+        "gramWeight": 4.5
+      }
+    ]
+  },
+  "salt": {
+    "fdcId": 173468,
+    "nutrients": {
+      "fiberG": 0,
+      "ironMg": 0.33,
+      "magnesiumMg": 1,
+      "sodiumMg": 38758,
+      "saturatedFatG": 0,
+      "vitaminCMg": 0,
+      "folateUg": 0,
+      "b12Ug": 0,
+      "proteinG": 0,
+      "fatG": 0,
+      "carbohydrateG": 0,
+      "energyKcal": 0,
+      "calciumMg": 24,
+      "potassiumMg": 8,
+      "zincMg": 0.1,
+      "pufa183G": 0,
+      "vitaminB6Mg": 0,
+      "vitaminAUg": 0,
+      "omega3EpaG": 0,
+      "omega3DhaG": 0,
+      "sugarsG": 0,
+      "vitaminDUg": 0
+    },
+    "portions": [
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "tsp",
+        "gramWeight": 6
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "tbsp",
+        "gramWeight": 18
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "cup",
+        "gramWeight": 292
+      },
+      {
+        "amount": 1,
+        "description": "",
+        "modifier": "dash",
+        "gramWeight": 0.4
+      }
+    ]
+  }
+}

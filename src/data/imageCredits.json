@@ -1,0 +1,503 @@
+{
+  "foods": {
+    "banana": {
+      "src": "/images/foods/banana.jpg",
+      "author": "Evan-Amos",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Banana-Single.jpg",
+      "file": "Banana-Single.jpg"
+    },
+    "apple": {
+      "src": "/images/foods/apple.jpg",
+      "author": "Abhijit Tembhekar from Mumbai, India",
+      "license": "CC BY 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Red_Apple.jpg",
+      "file": "Red_Apple.jpg"
+    },
+    "orange": {
+      "src": "/images/foods/orange.jpg",
+      "author": "Evan-Amos",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Orange-Whole-%26-Split.jpg",
+      "file": "Orange-Whole-&-Split.jpg"
+    },
+    "strawberry": {
+      "src": "/images/foods/strawberry.jpg",
+      "author": "Rlaferla at English Wikipedia Licensing [ edit ] Rlaferla, the copyright holder of this work, hereby publishes it under the following licens",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:PerfectStrawberry.jpg",
+      "file": "PerfectStrawberry.jpg"
+    },
+    "blueberries": {
+      "src": "/images/foods/blueberries.jpg",
+      "author": "The original Uploader was Oven Fresh at English Wikipedia",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Blueberries.jpg",
+      "file": "Blueberries.jpg"
+    },
+    "dates": {
+      "src": "/images/foods/dates.jpg",
+      "author": "Ferdous Licensing [ edit ] I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Dates.jpg",
+      "file": "Dates.jpg"
+    },
+    "lemon": {
+      "src": "/images/foods/lemon.jpg",
+      "author": "André Karwath aka Aka",
+      "license": "CC BY-SA 2.5",
+      "page": "https://commons.wikimedia.org/wiki/File:Lemon.jpg",
+      "file": "Lemon.jpg"
+    },
+    "tomato": {
+      "src": "/images/foods/tomato.jpg",
+      "author": "Softeis",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Tomato_je.jpg",
+      "file": "Tomato_je.jpg"
+    },
+    "cucumber": {
+      "src": "/images/foods/cucumber.jpg",
+      "author": "Stephen Ausmus, USDA ARS",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:ARS_cucumber.jpg",
+      "file": "ARS_cucumber.jpg"
+    },
+    "spinach": {
+      "src": "/images/foods/spinach.jpg",
+      "author": "Nillerdk",
+      "license": "CC BY 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Spinach_leaves.jpg",
+      "file": "Spinach_leaves.jpg"
+    },
+    "broccoli": {
+      "src": "/images/foods/broccoli.jpg",
+      "author": "USDA Lance Cheung",
+      "license": "CC BY 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Broccoli.jpg",
+      "file": "Broccoli.jpg"
+    },
+    "carrot": {
+      "src": "/images/foods/carrot.jpg",
+      "author": "Stephen Ausmus",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Carrots_of_many_colors.jpg",
+      "file": "Carrots_of_many_colors.jpg"
+    },
+    "bell-pepper": {
+      "src": "/images/foods/bell-pepper.jpg",
+      "author": "fir0002 flagstaffotos [at] gmail.com Canon 20D + Sigma 150mm f/2.8",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Red_capsicum_and_cross_section.jpg",
+      "file": "Red_capsicum_and_cross_section.jpg"
+    },
+    "lettuce": {
+      "src": "/images/foods/lettuce.jpg",
+      "author": "Rainer Zenz Quality image This is a quality image and is considered to meet the quality image guidelines . &#160;This is a featured picture",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Romaine_lettuce.jpg",
+      "file": "Romaine_lettuce.jpg"
+    },
+    "onion": {
+      "src": "/images/foods/onion.jpg",
+      "author": "Eoin Kilfeather",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Red_onion.jpg",
+      "file": "Red_onion.jpg"
+    },
+    "garlic": {
+      "src": "/images/foods/garlic.jpg",
+      "author": "Jon Sullivan",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Garlic_bulbs.jpg",
+      "file": "Garlic_bulbs.jpg"
+    },
+    "parsley": {
+      "src": "/images/foods/parsley.jpg",
+      "author": "No machine-readable author provided. Ranveig assumed (based on copyright claims). Licensing [ edit ] Public domain Public domain false false",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Parsley.jpg",
+      "file": "Parsley.jpg"
+    },
+    "potato-baked": {
+      "src": "/images/foods/potato-baked.jpg",
+      "author": "August Dominus Camera location 54°&#160;37′&#160;57.69″&#160;N, 5°&#160;56′&#160;51.85″&#160;W &#160; View this and other nearby images on:",
+      "license": "CC0",
+      "page": "https://commons.wikimedia.org/wiki/File:Jacket_potato.jpg",
+      "file": "Jacket_potato.jpg"
+    },
+    "sweet-potato": {
+      "src": "/images/foods/sweet-potato.jpg",
+      "author": "Kwabena Licensing [ edit ] I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under",
+      "license": "CC BY 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Sweet_potato.jpg",
+      "file": "Sweet_potato.jpg"
+    },
+    "egg-raw": {
+      "src": "/images/foods/egg-raw.jpg",
+      "author": "Garitzko Licensing [ edit ] Public domain Public domain false false I, the copyright holder of this work, release this work into the public",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Brown_chicken_egg.jpg",
+      "file": "Brown_chicken_egg.jpg"
+    },
+    "egg-boiled": {
+      "src": "/images/foods/egg-boiled.jpg",
+      "author": "Nithyasrm",
+      "license": "CC BY-SA",
+      "page": "https://commons.wikimedia.org/wiki/File:Perfectly%20Boiled%20eggs%20picture.JPG",
+      "file": "Perfectly Boiled eggs picture.JPG"
+    },
+    "milk": {
+      "src": "/images/foods/milk.jpg",
+      "author": "NIAID Licensing [ edit ] This file is licensed under the Creative Commons Attribution 2.0 Generic license. You are free: to share – to copy,",
+      "license": "CC BY 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Glass_of_Milk_(33657535532).jpg",
+      "file": "Glass_of_Milk_(33657535532).jpg"
+    },
+    "yogurt": {
+      "src": "/images/foods/yogurt.jpg",
+      "author": "No machine-readable author provided. Rainer Zenz assumed (based on copyright claims). Licensing [ edit ] I, the copyright holder of this wor",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Joghurt.jpg",
+      "file": "Joghurt.jpg"
+    },
+    "chicken-raw": {
+      "src": "/images/foods/chicken-raw.jpg",
+      "author": "MrBeastRapper Licensing [ edit ] I, the copyright holder of this work, hereby publish it under the following license: This file is licensed",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:CHICKEN%20BREAST.jpg",
+      "file": "CHICKEN BREAST.jpg"
+    },
+    "chicken-roasted": {
+      "src": "/images/foods/chicken-roasted.jpg",
+      "author": "E4024 Licensing [ edit ] I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under th",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Generous%20portion%20of%20roasted%20chicken.jpg",
+      "file": "Generous portion of roasted chicken.jpg"
+    },
+    "sardines": {
+      "src": "/images/foods/sardines.jpg",
+      "author": "jules",
+      "license": "CC BY 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Sardines%20in%20a%20can.jpg",
+      "file": "Sardines in a can.jpg"
+    },
+    "salmon-cooked": {
+      "src": "/images/foods/salmon-cooked.jpg",
+      "author": "Petar Milošević",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Grilled_salmon.jpg",
+      "file": "Grilled_salmon.jpg"
+    },
+    "tuna": {
+      "src": "/images/foods/tuna.jpg",
+      "author": "This image is a work by Pavel Ševela (sevela.p). When reusing, please credit me as: Pavel Ševela / Wikimedia Commons . I would appreciate be",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Tuna_can.jpg",
+      "file": "Tuna_can.jpg"
+    },
+    "lentils-cooked": {
+      "src": "/images/foods/lentils-cooked.jpg",
+      "author": "HaJunkiyada Camera location 37°&#160;46′&#160;41.77″&#160;N, 122°&#160;24′&#160;46.09″&#160;W &#160;&#160; &#160; View this and other nearby",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Liat%20Portal%20for%20Foodie%20Disorder%20-%20Cooked%20Lentils%20with%20Caramelized%20Onions.jpg",
+      "file": "Liat Portal for Foodie Disorder - Cooked Lentils with Caramelized Onions.jpg"
+    },
+    "chickpeas-cooked": {
+      "src": "/images/foods/chickpeas-cooked.jpg",
+      "author": "AlixSaz",
+      "license": "CC BY-SA",
+      "page": "https://commons.wikimedia.org/wiki/File:Ordinary%20chickpeas%20in%20a%20ceramic%20bowl.jpg",
+      "file": "Ordinary chickpeas in a ceramic bowl.jpg"
+    },
+    "fava-cooked": {
+      "src": "/images/foods/fava-cooked.jpg",
+      "author": "Kamalimaddy Licensing [ edit ] I, the copyright holder of this work, hereby publish it under the following license: This file is licensed un",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Broad_beans.jpg",
+      "file": "Broad_beans.jpg"
+    },
+    "kidney-beans": {
+      "src": "/images/foods/kidney-beans.jpg",
+      "author": "Sanjay Acharya",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Kidney_beans.jpg",
+      "file": "Kidney_beans.jpg"
+    },
+    "white-beans": {
+      "src": "/images/foods/white-beans.jpg",
+      "author": "Heather Kennedy from Atlanta, US",
+      "license": "CC BY 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:White_beans.jpg",
+      "file": "White_beans.jpg"
+    },
+    "hummus": {
+      "src": "/images/foods/hummus.jpg",
+      "author": "Donovan Govan.",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Hummus.jpg",
+      "file": "Hummus.jpg"
+    },
+    "oats": {
+      "src": "/images/foods/oats.jpg",
+      "author": "en:user:Hankwang",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Rolled_oats.jpg",
+      "file": "Rolled_oats.jpg"
+    },
+    "rice-cooked": {
+      "src": "/images/foods/rice-cooked.jpg",
+      "author": "Meritkosy Licensing [ edit ] I, the copyright holder of this work, hereby publish it under the following license: This file is licensed unde",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Cooked_rice.jpg",
+      "file": "Cooked_rice.jpg"
+    },
+    "bread-whole-wheat": {
+      "src": "/images/foods/bread-whole-wheat.jpg",
+      "author": "E4024 Licensing [ edit ] I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under th",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Whole_wheat_bread.jpg",
+      "file": "Whole_wheat_bread.jpg"
+    },
+    "flour": {
+      "src": "/images/foods/flour.jpg",
+      "author": "Oliwier Brzezinski Licensing [ edit ] I, the copyright holder of this work, hereby publish it under the following license: This file is lice",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Wheat_flour.jpg",
+      "file": "Wheat_flour.jpg"
+    },
+    "semolina": {
+      "src": "/images/foods/semolina.jpg",
+      "author": "PilotChicago Licensing [ edit ] I, the copyright holder of this work, hereby publish it under the following license: This file is licensed u",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Semolina%20grains.jpg",
+      "file": "Semolina grains.jpg"
+    },
+    "couscous-cooked": {
+      "src": "/images/foods/couscous-cooked.jpg",
+      "author": "No machine-readable author provided. Almablackaller assumed (based on copyright claims). Licensing [ edit ] Public domain Public domain fals",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Couscous.jpg",
+      "file": "Couscous.jpg"
+    },
+    "olive-oil": {
+      "src": "/images/foods/olive-oil.jpg",
+      "author": "Lemone Licensing [ edit ] I, the copyright holder of this work, hereby publish it under the following licenses:",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Olive_oil_from_Oneglia.jpg",
+      "file": "Olive_oil_from_Oneglia.jpg"
+    },
+    "canola-oil": {
+      "src": "/images/foods/canola-oil.jpg",
+      "author": "Original uploader was Whitebox at en.wikipedia",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:CanolaOil%20bottle.jpg",
+      "file": "CanolaOil bottle.jpg"
+    },
+    "almonds": {
+      "src": "/images/foods/almonds.jpg",
+      "author": "Koyaanis Qatsi at English Wikipedia Later versions were uploaded by Ericd at en.wikipedia . Licensing [ edit ] Public domain Public domain f",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Almonds.jpg",
+      "file": "Almonds.jpg"
+    },
+    "walnut": {
+      "src": "/images/foods/walnut.jpg",
+      "author": "Fæ Camera location 52°&#160;24′&#160;48.77″&#160;N, 4°&#160;04′&#160;51.52″&#160;W &#160;&#160; &#160; View this and other nearby images on:",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Walnuts.jpg",
+      "file": "Walnuts.jpg"
+    },
+    "peanut-butter": {
+      "src": "/images/foods/peanut-butter.jpg",
+      "author": "PiccoloNamek at English Wikipedia I, PiccoloNamek , took this. Licensing [ edit ] PiccoloNamek at English Wikipedia , the copyright holder o",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:PeanutButter.jpg",
+      "file": "PeanutButter.jpg"
+    },
+    "chia": {
+      "src": "/images/foods/chia.jpg",
+      "author": "Oliwier Brzezinski Licensing [ edit ] I, the copyright holder of this work, hereby publish it under the following license: This file is lice",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Chia_seeds.jpg",
+      "file": "Chia_seeds.jpg"
+    },
+    "flaxseed": {
+      "src": "/images/foods/flaxseed.jpg",
+      "author": "Bdevel ( talk &#160; · contribs )",
+      "license": "CC BY-SA 2.5",
+      "page": "https://commons.wikimedia.org/wiki/File:Flax_seeds.jpg",
+      "file": "Flax_seeds.jpg"
+    },
+    "salt": {
+      "src": "/images/foods/salt.jpg",
+      "author": "Dubravko Sorić SoraZG on Flickr Licensing [ edit ] This file is licensed under the Creative Commons Attribution 2.0 Generic license. You are",
+      "license": "CC BY 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Salt_shaker_on_white_background.jpg",
+      "file": "Salt_shaker_on_white_background.jpg"
+    }
+  },
+  "recipes": {
+    "oatmeal-banana": {
+      "src": "/images/recipes/oatmeal-banana.jpg",
+      "author": "Zakaria Tunsung Licensing [ edit ] I, the copyright holder of this work, hereby publish it under the following license: &#160; This file is",
+      "license": "CC0",
+      "page": "https://commons.wikimedia.org/wiki/File:Porridge%2001.jpg",
+      "file": "Porridge 01.jpg"
+    },
+    "eggs-toast": {
+      "src": "/images/recipes/eggs-toast.jpg",
+      "author": "Andy Li Camera location 50°&#160;49′&#160;41.37″&#160;N, 0°&#160;10′&#160;16.57″&#160;W &#160;&#160; &#160; View this and other nearby image",
+      "license": "CC0",
+      "page": "https://commons.wikimedia.org/wiki/File:Eggs%20On%20Toast%20-%20FIKA%202023-09-02.jpg",
+      "file": "Eggs On Toast - FIKA 2023-09-02.jpg"
+    },
+    "yogurt-fruit-oats": {
+      "src": "/images/recipes/yogurt-fruit-oats.jpg",
+      "author": "Fatimah Bello Licensing [ edit ] I, the copyright holder of this work, hereby publish it under the following license: This file is licensed",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Yogurt_parfait.jpg",
+      "file": "Yogurt_parfait.jpg"
+    },
+    "tomato-omelet": {
+      "src": "/images/recipes/tomato-omelet.jpg",
+      "author": "Carldecanada Licensing [ edit ] I, the copyright holder of this work, hereby publish it under the following license: This file is licensed u",
+      "license": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Omelette.jpg",
+      "file": "Omelette.jpg"
+    },
+    "fruit-smoothie": {
+      "src": "/images/recipes/fruit-smoothie.jpg",
+      "author": "woodleywonderworks Licensing [ edit ] This file is licensed under the Creative Commons Attribution 2.0 Generic license. You are free: to sha",
+      "license": "CC BY 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Glass%20of%20strawberry%20smoothie%20(6828826294).jpg",
+      "file": "Glass of strawberry smoothie (6828826294).jpg"
+    },
+    "baghrir": {
+      "src": "/images/recipes/baghrir.jpg",
+      "author": "Sabah HAANA Licensing [ edit ] I, the copyright holder of this work, hereby publish it under the following license: This file is licensed un",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Baghrir.jpg",
+      "file": "Baghrir.jpg"
+    },
+    "msemen": {
+      "src": "/images/recipes/msemen.jpg",
+      "author": "Popo le Chien Licensing [ edit ] I, the copyright holder of this work, hereby publish it under the following license: &#160; This file is ma",
+      "license": "CC0",
+      "page": "https://commons.wikimedia.org/wiki/File:Msemmen.jpg",
+      "file": "Msemmen.jpg"
+    },
+    "chicken-rice-veg": {
+      "src": "/images/recipes/chicken-rice-veg.jpg",
+      "author": "Renee Comet (Photographer)",
+      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Chicken_and_rice.jpg",
+      "file": "Chicken_and_rice.jpg"
+    },
+    "sardine-salad": {
+      "src": "/images/recipes/sardine-salad.jpg",
+      "author": "E4024 Licensing [ edit ] I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under th",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Salad_with_sardines.jpg",
+      "file": "Salad_with_sardines.jpg"
+    },
+    "chickpea-salad": {
+      "src": "/images/recipes/chickpea-salad.jpg",
+      "author": "Shark2025 Licensing [ edit ] I, the copyright holder of this work, hereby publish it under the following license: This file is licensed unde",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Power%20protein%20salad%20bowl.jpg",
+      "file": "Power protein salad bowl.jpg"
+    },
+    "tuna-sandwich": {
+      "src": "/images/recipes/tuna-sandwich.jpg",
+      "author": "HaJunkiyada Camera location 37°&#160;46′&#160;42.01″&#160;N, 122°&#160;24′&#160;46.09″&#160;W &#160;&#160; &#160; View this and other nearby",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Liat%20Portal%20for%20Foodie%20Disorder%20-%20Tuna%20sandwich%20and%20Israeli%20salad%20breakfast.jpg",
+      "file": "Liat Portal for Foodie Disorder - Tuna sandwich and Israeli salad breakfast.jpg"
+    },
+    "bissara": {
+      "src": "/images/recipes/bissara.jpg",
+      "author": "Ruby Josephine Smith Licensing [ edit ] This file is licensed under the Creative Commons Attribution-Share Alike 4.0 International license.",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Bissara%20Moroccan%20split%20pea%20and%20fava%20bean%20soup.jpg",
+      "file": "Bissara Moroccan split pea and fava bean soup.jpg"
+    },
+    "lentil-soup": {
+      "src": "/images/recipes/lentil-soup.jpg",
+      "author": "Dmitry Bagrov Licensing [ edit ] I, the copyright holder of this work, hereby publish it under the following license: This file is licensed",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Lentil%20soup%20in%20a%20bowl.jpg",
+      "file": "Lentil soup in a bowl.jpg"
+    },
+    "vegetable-omelet": {
+      "src": "/images/recipes/vegetable-omelet.jpg",
+      "author": "TriptaG Licensing [ edit ] I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Vegetable%20Omelette%20with%20slice%20of%20bread%20and%20chutney.JPG",
+      "file": "Vegetable Omelette with slice of bread and chutney.JPG"
+    },
+    "chicken-potatoes": {
+      "src": "/images/recipes/chicken-potatoes.jpg",
+      "author": "Silar Licensing [ edit ] I, the copyright holder of this work, hereby publish it under the following license: This file is licensed under th",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:02023%200166%20Roasted%20Chicken%20and%20Potatoes%20with%20fried%20Beets.jpg",
+      "file": "02023 0166 Roasted Chicken and Potatoes with fried Beets.jpg"
+    },
+    "baked-salmon": {
+      "src": "/images/recipes/baked-salmon.jpg",
+      "author": "DanaTentis",
+      "license": "CC0",
+      "page": "https://commons.wikimedia.org/wiki/File:Grilled%20plated%20salmon%20fillet.jpg",
+      "file": "Grilled plated salmon fillet.jpg"
+    },
+    "rice-beans-salad": {
+      "src": "/images/recipes/rice-beans-salad.jpg",
+      "author": "Umuhiera Licensing [ edit ] I, the copyright holder of this work, hereby publish it under the following license: &#160; This file is made av",
+      "license": "CC0",
+      "page": "https://commons.wikimedia.org/wiki/File:Rice%20and%20beans%201.jpg",
+      "file": "Rice and beans 1.jpg"
+    },
+    "harira": {
+      "src": "/images/recipes/harira.jpg",
+      "author": "HaJunkiyada Camera location 37°&#160;46′&#160;41.77″&#160;N, 122°&#160;24′&#160;46.07″&#160;W &#160;&#160; &#160; View this and other nearby",
+      "license": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Liat%20Portal%20for%20Foodie%20Disorder%20-%20Harira%20soup.jpg",
+      "file": "Liat Portal for Foodie Disorder - Harira soup.jpg"
+    },
+    "apple-almonds": {
+      "src": "/images/recipes/apple-almonds.jpg",
+      "author": "Kirankumar.gosu Licensing [ edit ] I, the copyright holder of this work, hereby publish it under the following license: This file is license",
+      "license": "CC BY 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Apple.jpg",
+      "file": "Apple.jpg"
+    },
+    "yogurt-berries": {
+      "src": "/images/recipes/yogurt-berries.jpg",
+      "author": "Eric Fischer Camera location 60°&#160;10′&#160;10.94″&#160;N, 24°&#160;55′&#160;37.89″&#160;E &#160; View this and other nearby images on: O",
+      "license": "CC BY 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Berries%20and%20yogurt%20in%20the%20breakfast%20buffet%20(43696401755).jpg",
+      "file": "Berries and yogurt in the breakfast buffet (43696401755).jpg"
+    },
+    "banana-peanut": {
+      "src": "/images/recipes/banana-peanut.jpg",
+      "author": "Daderot Licensing [ edit ] I, the copyright holder of this work, hereby publish it under the following license: &#160; This file is made ava",
+      "license": "CC0",
+      "page": "https://commons.wikimedia.org/wiki/File:Peanut%20butter%20and%20banana%20on%20toasted%20homemade%20bread%20-%20Massachusetts.jpg",
+      "file": "Peanut butter and banana on toasted homemade bread - Massachusetts.jpg"
+    },
+    "carrot-hummus": {
+      "src": "/images/recipes/carrot-hummus.jpg",
+      "author": "Vegan Feast Catering Licensing [ edit ] This file is licensed under the Creative Commons Attribution 2.0 Generic license. You are free: to s",
+      "license": "CC BY 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Hummus%20and%20carrot%20(3841125815).jpg",
+      "file": "Hummus and carrot (3841125815).jpg"
+    },
+    "egg-orange": {
+      "src": "/images/recipes/egg-orange.jpg",
+      "author": "Denis kasozi Licensing [ edit ] I, the copyright holder of this work, hereby publish it under the following license: This file is licensed u",
+      "license": "CC BY 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:African%20Boiled%20eggs.%2002.jpg",
+      "file": "African Boiled eggs. 02.jpg"
+    }
+  }
+}
